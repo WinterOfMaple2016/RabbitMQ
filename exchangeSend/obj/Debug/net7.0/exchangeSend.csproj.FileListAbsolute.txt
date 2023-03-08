@@ -1,0 +1,17 @@
+E:\code\RabbitMQLearn\exchangeSend\bin\Debug\net7.0\exchangeSend.exe
+E:\code\RabbitMQLearn\exchangeSend\bin\Debug\net7.0\exchangeSend.deps.json
+E:\code\RabbitMQLearn\exchangeSend\bin\Debug\net7.0\exchangeSend.runtimeconfig.json
+E:\code\RabbitMQLearn\exchangeSend\bin\Debug\net7.0\exchangeSend.dll
+E:\code\RabbitMQLearn\exchangeSend\bin\Debug\net7.0\exchangeSend.pdb
+E:\code\RabbitMQLearn\exchangeSend\bin\Debug\net7.0\RabbitMQ.Client.dll
+E:\code\RabbitMQLearn\exchangeSend\obj\Debug\net7.0\exchangeSend.csproj.AssemblyReference.cache
+E:\code\RabbitMQLearn\exchangeSend\obj\Debug\net7.0\exchangeSend.GeneratedMSBuildEditorConfig.editorconfig
+E:\code\RabbitMQLearn\exchangeSend\obj\Debug\net7.0\exchangeSend.AssemblyInfoInputs.cache
+E:\code\RabbitMQLearn\exchangeSend\obj\Debug\net7.0\exchangeSend.AssemblyInfo.cs
+E:\code\RabbitMQLearn\exchangeSend\obj\Debug\net7.0\exchangeSend.csproj.CoreCompileInputs.cache
+E:\code\RabbitMQLearn\exchangeSend\obj\Debug\net7.0\exchangeSend.csproj.CopyComplete
+E:\code\RabbitMQLearn\exchangeSend\obj\Debug\net7.0\exchangeSend.dll
+E:\code\RabbitMQLearn\exchangeSend\obj\Debug\net7.0\refint\exchangeSend.dll
+E:\code\RabbitMQLearn\exchangeSend\obj\Debug\net7.0\exchangeSend.pdb
+E:\code\RabbitMQLearn\exchangeSend\obj\Debug\net7.0\exchangeSend.genruntimeconfig.cache
+E:\code\RabbitMQLearn\exchangeSend\obj\Debug\net7.0\ref\exchangeSend.dll

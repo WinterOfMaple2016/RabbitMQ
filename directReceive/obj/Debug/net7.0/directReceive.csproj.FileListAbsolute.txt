@@ -1,0 +1,17 @@
+E:\code\RabbitMQLearn\directReceive\obj\Debug\net7.0\directReceive.csproj.AssemblyReference.cache
+E:\code\RabbitMQLearn\directReceive\obj\Debug\net7.0\directReceive.GeneratedMSBuildEditorConfig.editorconfig
+E:\code\RabbitMQLearn\directReceive\obj\Debug\net7.0\directReceive.AssemblyInfoInputs.cache
+E:\code\RabbitMQLearn\directReceive\obj\Debug\net7.0\directReceive.AssemblyInfo.cs
+E:\code\RabbitMQLearn\directReceive\obj\Debug\net7.0\directReceive.csproj.CoreCompileInputs.cache
+E:\code\RabbitMQLearn\directReceive\bin\Debug\net7.0\directReceive.exe
+E:\code\RabbitMQLearn\directReceive\bin\Debug\net7.0\directReceive.deps.json
+E:\code\RabbitMQLearn\directReceive\bin\Debug\net7.0\directReceive.runtimeconfig.json
+E:\code\RabbitMQLearn\directReceive\bin\Debug\net7.0\directReceive.dll
+E:\code\RabbitMQLearn\directReceive\bin\Debug\net7.0\directReceive.pdb
+E:\code\RabbitMQLearn\directReceive\bin\Debug\net7.0\RabbitMQ.Client.dll
+E:\code\RabbitMQLearn\directReceive\obj\Debug\net7.0\directReceive.csproj.CopyComplete
+E:\code\RabbitMQLearn\directReceive\obj\Debug\net7.0\directReceive.dll
+E:\code\RabbitMQLearn\directReceive\obj\Debug\net7.0\refint\directReceive.dll
+E:\code\RabbitMQLearn\directReceive\obj\Debug\net7.0\directReceive.pdb
+E:\code\RabbitMQLearn\directReceive\obj\Debug\net7.0\directReceive.genruntimeconfig.cache
+E:\code\RabbitMQLearn\directReceive\obj\Debug\net7.0\ref\directReceive.dll

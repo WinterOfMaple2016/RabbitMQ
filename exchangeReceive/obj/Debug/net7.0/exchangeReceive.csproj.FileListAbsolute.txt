@@ -1,0 +1,17 @@
+E:\code\RabbitMQLearn\exchangeReceive\bin\Debug\net7.0\exchangeReceive.exe
+E:\code\RabbitMQLearn\exchangeReceive\bin\Debug\net7.0\exchangeReceive.deps.json
+E:\code\RabbitMQLearn\exchangeReceive\bin\Debug\net7.0\exchangeReceive.runtimeconfig.json
+E:\code\RabbitMQLearn\exchangeReceive\bin\Debug\net7.0\exchangeReceive.dll
+E:\code\RabbitMQLearn\exchangeReceive\bin\Debug\net7.0\exchangeReceive.pdb
+E:\code\RabbitMQLearn\exchangeReceive\bin\Debug\net7.0\RabbitMQ.Client.dll
+E:\code\RabbitMQLearn\exchangeReceive\obj\Debug\net7.0\exchangeReceive.csproj.AssemblyReference.cache
+E:\code\RabbitMQLearn\exchangeReceive\obj\Debug\net7.0\exchangeReceive.GeneratedMSBuildEditorConfig.editorconfig
+E:\code\RabbitMQLearn\exchangeReceive\obj\Debug\net7.0\exchangeReceive.AssemblyInfoInputs.cache
+E:\code\RabbitMQLearn\exchangeReceive\obj\Debug\net7.0\exchangeReceive.AssemblyInfo.cs
+E:\code\RabbitMQLearn\exchangeReceive\obj\Debug\net7.0\exchangeReceive.csproj.CoreCompileInputs.cache
+E:\code\RabbitMQLearn\exchangeReceive\obj\Debug\net7.0\exchangeReceive.csproj.CopyComplete
+E:\code\RabbitMQLearn\exchangeReceive\obj\Debug\net7.0\exchangeReceive.dll
+E:\code\RabbitMQLearn\exchangeReceive\obj\Debug\net7.0\refint\exchangeReceive.dll
+E:\code\RabbitMQLearn\exchangeReceive\obj\Debug\net7.0\exchangeReceive.pdb
+E:\code\RabbitMQLearn\exchangeReceive\obj\Debug\net7.0\exchangeReceive.genruntimeconfig.cache
+E:\code\RabbitMQLearn\exchangeReceive\obj\Debug\net7.0\ref\exchangeReceive.dll

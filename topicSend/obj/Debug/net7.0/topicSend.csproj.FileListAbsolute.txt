@@ -1,0 +1,17 @@
+E:\code\RabbitMQLearn\topicSend\obj\Debug\net7.0\topicSend.csproj.AssemblyReference.cache
+E:\code\RabbitMQLearn\topicSend\obj\Debug\net7.0\topicSend.GeneratedMSBuildEditorConfig.editorconfig
+E:\code\RabbitMQLearn\topicSend\obj\Debug\net7.0\topicSend.AssemblyInfoInputs.cache
+E:\code\RabbitMQLearn\topicSend\obj\Debug\net7.0\topicSend.AssemblyInfo.cs
+E:\code\RabbitMQLearn\topicSend\obj\Debug\net7.0\topicSend.csproj.CoreCompileInputs.cache
+E:\code\RabbitMQLearn\topicSend\bin\Debug\net7.0\topicSend.exe
+E:\code\RabbitMQLearn\topicSend\bin\Debug\net7.0\topicSend.deps.json
+E:\code\RabbitMQLearn\topicSend\bin\Debug\net7.0\topicSend.runtimeconfig.json
+E:\code\RabbitMQLearn\topicSend\bin\Debug\net7.0\topicSend.dll
+E:\code\RabbitMQLearn\topicSend\bin\Debug\net7.0\topicSend.pdb
+E:\code\RabbitMQLearn\topicSend\bin\Debug\net7.0\RabbitMQ.Client.dll
+E:\code\RabbitMQLearn\topicSend\obj\Debug\net7.0\topicSend.csproj.CopyComplete
+E:\code\RabbitMQLearn\topicSend\obj\Debug\net7.0\topicSend.dll
+E:\code\RabbitMQLearn\topicSend\obj\Debug\net7.0\refint\topicSend.dll
+E:\code\RabbitMQLearn\topicSend\obj\Debug\net7.0\topicSend.pdb
+E:\code\RabbitMQLearn\topicSend\obj\Debug\net7.0\topicSend.genruntimeconfig.cache
+E:\code\RabbitMQLearn\topicSend\obj\Debug\net7.0\ref\topicSend.dll

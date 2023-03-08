@@ -1,0 +1,17 @@
+E:\code\RabbitMQLearn\topicReceive\bin\Debug\net7.0\topicReceive.exe
+E:\code\RabbitMQLearn\topicReceive\bin\Debug\net7.0\topicReceive.deps.json
+E:\code\RabbitMQLearn\topicReceive\bin\Debug\net7.0\topicReceive.runtimeconfig.json
+E:\code\RabbitMQLearn\topicReceive\bin\Debug\net7.0\topicReceive.dll
+E:\code\RabbitMQLearn\topicReceive\bin\Debug\net7.0\topicReceive.pdb
+E:\code\RabbitMQLearn\topicReceive\bin\Debug\net7.0\RabbitMQ.Client.dll
+E:\code\RabbitMQLearn\topicReceive\obj\Debug\net7.0\topicReceive.csproj.AssemblyReference.cache
+E:\code\RabbitMQLearn\topicReceive\obj\Debug\net7.0\topicReceive.GeneratedMSBuildEditorConfig.editorconfig
+E:\code\RabbitMQLearn\topicReceive\obj\Debug\net7.0\topicReceive.AssemblyInfoInputs.cache
+E:\code\RabbitMQLearn\topicReceive\obj\Debug\net7.0\topicReceive.AssemblyInfo.cs
+E:\code\RabbitMQLearn\topicReceive\obj\Debug\net7.0\topicReceive.csproj.CoreCompileInputs.cache
+E:\code\RabbitMQLearn\topicReceive\obj\Debug\net7.0\topicReceive.csproj.CopyComplete
+E:\code\RabbitMQLearn\topicReceive\obj\Debug\net7.0\topicReceive.dll
+E:\code\RabbitMQLearn\topicReceive\obj\Debug\net7.0\refint\topicReceive.dll
+E:\code\RabbitMQLearn\topicReceive\obj\Debug\net7.0\topicReceive.pdb
+E:\code\RabbitMQLearn\topicReceive\obj\Debug\net7.0\topicReceive.genruntimeconfig.cache
+E:\code\RabbitMQLearn\topicReceive\obj\Debug\net7.0\ref\topicReceive.dll

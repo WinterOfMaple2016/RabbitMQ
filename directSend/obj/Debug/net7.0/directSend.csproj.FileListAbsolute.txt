@@ -1,0 +1,17 @@
+E:\code\RabbitMQLearn\directSend\bin\Debug\net7.0\directSend.exe
+E:\code\RabbitMQLearn\directSend\bin\Debug\net7.0\directSend.deps.json
+E:\code\RabbitMQLearn\directSend\bin\Debug\net7.0\directSend.runtimeconfig.json
+E:\code\RabbitMQLearn\directSend\bin\Debug\net7.0\directSend.dll
+E:\code\RabbitMQLearn\directSend\bin\Debug\net7.0\directSend.pdb
+E:\code\RabbitMQLearn\directSend\bin\Debug\net7.0\RabbitMQ.Client.dll
+E:\code\RabbitMQLearn\directSend\obj\Debug\net7.0\directSend.csproj.AssemblyReference.cache
+E:\code\RabbitMQLearn\directSend\obj\Debug\net7.0\directSend.GeneratedMSBuildEditorConfig.editorconfig
+E:\code\RabbitMQLearn\directSend\obj\Debug\net7.0\directSend.AssemblyInfoInputs.cache
+E:\code\RabbitMQLearn\directSend\obj\Debug\net7.0\directSend.AssemblyInfo.cs
+E:\code\RabbitMQLearn\directSend\obj\Debug\net7.0\directSend.csproj.CoreCompileInputs.cache
+E:\code\RabbitMQLearn\directSend\obj\Debug\net7.0\directSend.csproj.CopyComplete
+E:\code\RabbitMQLearn\directSend\obj\Debug\net7.0\directSend.dll
+E:\code\RabbitMQLearn\directSend\obj\Debug\net7.0\refint\directSend.dll
+E:\code\RabbitMQLearn\directSend\obj\Debug\net7.0\directSend.pdb
+E:\code\RabbitMQLearn\directSend\obj\Debug\net7.0\directSend.genruntimeconfig.cache
+E:\code\RabbitMQLearn\directSend\obj\Debug\net7.0\ref\directSend.dll

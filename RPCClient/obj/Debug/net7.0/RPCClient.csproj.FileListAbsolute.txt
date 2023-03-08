@@ -1,0 +1,17 @@
+E:\code\RabbitMQLearn\RPCClient\obj\Debug\net7.0\RPCClient.csproj.AssemblyReference.cache
+E:\code\RabbitMQLearn\RPCClient\obj\Debug\net7.0\RPCClient.GeneratedMSBuildEditorConfig.editorconfig
+E:\code\RabbitMQLearn\RPCClient\obj\Debug\net7.0\RPCClient.AssemblyInfoInputs.cache
+E:\code\RabbitMQLearn\RPCClient\obj\Debug\net7.0\RPCClient.AssemblyInfo.cs
+E:\code\RabbitMQLearn\RPCClient\obj\Debug\net7.0\RPCClient.csproj.CoreCompileInputs.cache
+E:\code\RabbitMQLearn\RPCClient\bin\Debug\net7.0\RPCClient.exe
+E:\code\RabbitMQLearn\RPCClient\bin\Debug\net7.0\RPCClient.deps.json
+E:\code\RabbitMQLearn\RPCClient\bin\Debug\net7.0\RPCClient.runtimeconfig.json
+E:\code\RabbitMQLearn\RPCClient\bin\Debug\net7.0\RPCClient.dll
+E:\code\RabbitMQLearn\RPCClient\bin\Debug\net7.0\RPCClient.pdb
+E:\code\RabbitMQLearn\RPCClient\bin\Debug\net7.0\RabbitMQ.Client.dll
+E:\code\RabbitMQLearn\RPCClient\obj\Debug\net7.0\RPCClient.csproj.CopyComplete
+E:\code\RabbitMQLearn\RPCClient\obj\Debug\net7.0\RPCClient.dll
+E:\code\RabbitMQLearn\RPCClient\obj\Debug\net7.0\refint\RPCClient.dll
+E:\code\RabbitMQLearn\RPCClient\obj\Debug\net7.0\RPCClient.pdb
+E:\code\RabbitMQLearn\RPCClient\obj\Debug\net7.0\RPCClient.genruntimeconfig.cache
+E:\code\RabbitMQLearn\RPCClient\obj\Debug\net7.0\ref\RPCClient.dll
